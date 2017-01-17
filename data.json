@@ -1,4 +1,22 @@
 {
-    "tutorials": [ ],
-    "assignments": [ ]
+    "tutorials": [
+        {
+            "name": "tutorial_yarp-ports",
+            "url": "https://github.com/vvv-school/tutorial_yarp-port.git",
+            "score": 1
+        },
+        {
+            "name": "tutorial_yarp-rpc",
+            "url": "https://github.com/vvv-school/tutorial_yarp-rpc.git",
+            "score": 1
+        }      
+    ],
+
+    "assignments": [
+        {
+            "name": "assignment_producer-consumer",
+            "url": "https://github.com/vvv-school/assignment_producer-consumer-roll",
+            "score": 5
+        }    
+    ]    
 }
