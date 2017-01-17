@@ -8,8 +8,8 @@
 # - curl
 # - jq
 
-org=vvv{yy}-{course}
-team=vvv{yy}-students
+org=vvv17-yarp
+team=vvv17-students
 curdir=$(pwd)
 
 if [ -d build ]; then
