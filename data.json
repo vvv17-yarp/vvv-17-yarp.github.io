@@ -1,6 +1,11 @@
 {
     "tutorials": [
         {
+            "name": "tutorial_yarpmanager",
+            "url": "https://github.com/vvv-school/tutorial_yarpmanager.git",
+            "score": 1
+        },        
+        {
             "name": "tutorial_yarp-ports",
             "url": "https://github.com/vvv-school/tutorial_yarp-port.git",
             "score": 1
@@ -9,7 +14,22 @@
             "name": "tutorial_yarp-rpc",
             "url": "https://github.com/vvv-school/tutorial_yarp-rpc.git",
             "score": 1
-        }      
+        },
+        {
+            "name": "tutorial_RFModule",
+            "url": "https://github.com/vvv-school/tutorial_RFModule.git",
+            "score": 1
+        },        
+        {
+            "name": "tutorial_yarp-multithreading",
+            "url": "https://github.com/vvv-school/tutorial_yarp-multithreading.git",
+            "score": 1
+        },        
+        {
+            "name": "tutorial_yarp-idl",
+            "url": "https://github.com/vvv-school/tutorial_yarp-idl.git",
+            "score": 1
+        }                
     ],
 
     "assignments": [
