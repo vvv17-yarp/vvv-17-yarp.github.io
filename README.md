@@ -4,9 +4,9 @@
 
 | assignment | status | score |
 |    :--:    |  :--:  | :--:  |
-| [assignment_producer-consumer-apaikan](https://github.com/vvv17-yarp/assignment_producer-consumer-apaikan) | :x: | **0** |
+| [assignment_producer-consumer-apaikan](https://github.com/vvv17-yarp/assignment_producer-consumer-apaikan) | :white_check_mark: | **5** |
 
-![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-5-brightgreen.svg?style=flat-square)
 
 ---
 
