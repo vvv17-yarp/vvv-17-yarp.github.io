@@ -2,7 +2,14 @@
   {
     "username": "apaikan",
     "tutorials": [],
-    "assignments": [],
+    "assignments": [
+      {
+        "name": "assignment_producer-consumer-apaikan",
+        "status": ":x:",
+        "last_commit_date": "2017-01-16T10:00:49Z",
+        "score": 5
+      }
+    ],
     "score": 0
   },
   {

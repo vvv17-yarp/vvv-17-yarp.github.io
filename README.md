@@ -2,6 +2,10 @@
 
 ### [**apaikan**](https://github.com/apaikan) grade
 
+| assignment | status | score |
+|    :--:    |  :--:  | :--:  |
+| [assignment_producer-consumer-apaikan](https://github.com/vvv17-yarp/assignment_producer-consumer-apaikan) | :x: | **0** |
+
 ![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
 
 ---
