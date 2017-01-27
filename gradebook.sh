@@ -9,7 +9,8 @@
 # - jq
 
 org=vvv17-yarp
-team=vvv17-students
+# team=vvv17-students
+team=vvv17-teachers
 curdir=$(pwd)
 
 if [ -d build ]; then
