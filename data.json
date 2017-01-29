@@ -24,7 +24,13 @@
             "name": "tutorial_yarp-multithreading",
             "url": "https://github.com/vvv-school/tutorial_yarp-multithreading.git",
             "score": 1
+        },
+        {
+            "name": "tutorial_yarp-idl",
+            "url": "https://github.com/vvv-school/tutorial_yarp-idl.git",
+            "score": 1
         }
+        
     ],
 
     "assignments": [
