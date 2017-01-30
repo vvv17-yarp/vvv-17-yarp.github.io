@@ -144,6 +144,7 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_yarpmanager-damianomal](https://github.com/vvv17-yarp/tutorial_yarpmanager-damianomal) | :white_check_mark: | **1** |
 | [tutorial_yarp-ports-damianomal](https://github.com/vvv17-yarp/tutorial_yarp-ports-damianomal) | :white_check_mark: | **1** |
+| [assignment_producer-consumer-damianomal](https://github.com/vvv17-yarp/assignment_producer-consumer-damianomal) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
 
