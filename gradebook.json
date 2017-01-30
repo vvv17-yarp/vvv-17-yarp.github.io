@@ -234,7 +234,14 @@
         "score": 1
       }
     ],
-    "assignments": [],
+    "assignments": [
+      {
+        "name": "assignment_producer-consumer-fabian-paus",
+        "status": ":x:",
+        "last_commit_date": "",
+        "score": 5
+      }
+    ],
     "score": 2
   },
   {
