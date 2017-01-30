@@ -9,13 +9,7 @@
 
 ### [**alexarossi**](https://github.com/alexarossi) grade
 
-| assignment | status | score |
-|    :--:    |  :--:  | :--:  |
-| [tutorial_yarpmanager-alexarossi](https://github.com/vvv17-yarp/tutorial_yarpmanager-alexarossi) | :white_check_mark: | **1** |
-| [tutorial_yarp-ports-alexarossi](https://github.com/vvv17-yarp/tutorial_yarp-ports-alexarossi) | :white_check_mark: | **1** |
-| [assignment_producer-consumer-alexarossi](https://github.com/vvv17-yarp/assignment_producer-consumer-alexarossi) | :x: | **0** |
-
-![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
 
 ---
 
