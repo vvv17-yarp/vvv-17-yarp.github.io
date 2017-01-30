@@ -64,12 +64,12 @@
     "assignments": [
       {
         "name": "assignment_producer-consumer-AlexisBillier",
-        "status": ":x:",
-        "last_commit_date": "2017-01-16T10:00:49Z",
+        "status": ":white_check_mark:",
+        "last_commit_date": "2017-01-30T18:41:58Z",
         "score": 5
       }
     ],
-    "score": 2
+    "score": 7
   },
   {
     "username": "amalaise",
