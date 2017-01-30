@@ -2,13 +2,7 @@
 
 ### [**AlexAntn**](https://github.com/AlexAntn) grade
 
-| assignment | status | score |
-|    :--:    |  :--:  | :--:  |
-| [tutorial_yarpmanager-AlexAntn](https://github.com/vvv17-yarp/tutorial_yarpmanager-AlexAntn) | :white_check_mark: | **1** |
-| [tutorial_yarp-ports-AlexAntn](https://github.com/vvv17-yarp/tutorial_yarp-ports-AlexAntn) | :white_check_mark: | **1** |
-| [assignment_producer-consumer-AlexAntn](https://github.com/vvv17-yarp/assignment_producer-consumer-AlexAntn) | :x: | **0** |
-
-![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
 
 ---
 
