@@ -393,12 +393,12 @@
     "assignments": [
       {
         "name": "assignment_producer-consumer-ipa-bfb",
-        "status": ":x:",
-        "last_commit_date": "2017-01-30T17:44:49Z",
+        "status": ":white_check_mark:",
+        "last_commit_date": "2017-01-30T18:15:46Z",
         "score": 5
       }
     ],
-    "score": 2
+    "score": 7
   },
   {
     "username": "jibweb",
