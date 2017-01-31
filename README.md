@@ -408,9 +408,10 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_yarpmanager-towardthesea](https://github.com/vvv17-yarp/tutorial_yarpmanager-towardthesea) | :white_check_mark: | **1** |
 | [tutorial_yarp-ports-towardthesea](https://github.com/vvv17-yarp/tutorial_yarp-ports-towardthesea) | :white_check_mark: | **1** |
+| [tutorial_yarp-rpc-towardthesea](https://github.com/vvv17-yarp/tutorial_yarp-rpc-towardthesea) | :white_check_mark: | **1** |
 | [assignment_producer-consumer-towardthesea](https://github.com/vvv17-yarp/assignment_producer-consumer-towardthesea) | :x: | **0** |
 
-![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-3-brightgreen.svg?style=flat-square)
 
 ---
 
