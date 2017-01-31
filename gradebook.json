@@ -1036,8 +1036,8 @@
     "assignments": [
       {
         "name": "assignment_producer-consumer-LawrenceChen-i2r",
-        "status": ":x:",
-        "last_commit_date": "2017-01-16 10:00:49 UTC",
+        "status": ":white_check_mark:",
+        "last_commit_date": "2017-01-31 16:48:11 UTC",
         "score": 5
       },
       {
@@ -1047,7 +1047,7 @@
         "score": 4
       }
     ],
-    "score": 10
+    "score": 15
   },
   {
     "username": "LuSeKa",
