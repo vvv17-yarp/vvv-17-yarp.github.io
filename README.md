@@ -192,8 +192,9 @@
 | assignment | status | score |
 |    :--:    |  :--:  | :--:  |
 | [tutorial_yarpmanager-damianomal](https://github.com/vvv17-yarp/tutorial_yarpmanager-damianomal) | :white_check_mark: | **1** |
+| [tutorial_yarp-ports-damianomal](https://github.com/vvv17-yarp/tutorial_yarp-ports-damianomal) | :white_check_mark: | **1** |
 
-![total score](https://img.shields.io/badge/total_score-1-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
 
 ---
 
