@@ -162,9 +162,10 @@
 | [tutorial_yarp-rpc-crbothe](https://github.com/vvv17-yarp/tutorial_yarp-rpc-crbothe) | :white_check_mark: | **1** |
 | [tutorial_RFModule-crbothe](https://github.com/vvv17-yarp/tutorial_RFModule-crbothe) | :white_check_mark: | **1** |
 | [tutorial_yarp-idl-crbothe](https://github.com/vvv17-yarp/tutorial_yarp-idl-crbothe) | :white_check_mark: | **1** |
+| [tutorial_yarp-multithreading-crbothe](https://github.com/vvv17-yarp/tutorial_yarp-multithreading-crbothe) | :white_check_mark: | **1** |
 | [assignment_producer-consumer-crbothe](https://github.com/vvv17-yarp/assignment_producer-consumer-crbothe) | :x: | **0** |
 
-![total score](https://img.shields.io/badge/total_score-5-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-6-brightgreen.svg?style=flat-square)
 
 ---
 
