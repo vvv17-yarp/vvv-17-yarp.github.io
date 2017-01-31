@@ -424,9 +424,10 @@
 | [tutorial_yarpmanager-vicentepedro](https://github.com/vvv17-yarp/tutorial_yarpmanager-vicentepedro) | :white_check_mark: | **1** |
 | [tutorial_yarp-ports-vicentepedro](https://github.com/vvv17-yarp/tutorial_yarp-ports-vicentepedro) | :white_check_mark: | **1** |
 | [tutorial_yarp-rpc-vicentepedro](https://github.com/vvv17-yarp/tutorial_yarp-rpc-vicentepedro) | :white_check_mark: | **1** |
+| [tutorial_RFModule-vicentepedro](https://github.com/vvv17-yarp/tutorial_RFModule-vicentepedro) | :white_check_mark: | **1** |
 | [assignment_producer-consumer-vicentepedro](https://github.com/vvv17-yarp/assignment_producer-consumer-vicentepedro) | :white_check_mark: | **5** |
 
-![total score](https://img.shields.io/badge/total_score-8-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-9-brightgreen.svg?style=flat-square)
 
 ---
 
