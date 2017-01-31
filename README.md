@@ -226,8 +226,9 @@
 | [tutorial_yarp-idl-EgorLakomkin](https://github.com/vvv17-yarp/tutorial_yarp-idl-EgorLakomkin) | :white_check_mark: | **1** |
 | [tutorial_yarp-multithreading-EgorLakomkin](https://github.com/vvv17-yarp/tutorial_yarp-multithreading-EgorLakomkin) | :white_check_mark: | **1** |
 | [assignment_producer-consumer-EgorLakomkin](https://github.com/vvv17-yarp/assignment_producer-consumer-EgorLakomkin) | :white_check_mark: | **5** |
+| [assignment_codec-EgorLakomkin](https://github.com/vvv17-yarp/assignment_codec-EgorLakomkin) | :white_check_mark: | **4** |
 
-![total score](https://img.shields.io/badge/total_score-11-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-15-brightgreen.svg?style=flat-square)
 
 ---
 
