@@ -757,6 +757,11 @@
         "name": "tutorial_RFModule-kompky",
         "status": ":white_check_mark:",
         "score": 1
+      },
+      {
+        "name": "tutorial_yarp-idl-kompky",
+        "status": ":white_check_mark:",
+        "score": 1
       }
     ],
     "assignments": [
@@ -767,7 +772,7 @@
         "score": 5
       }
     ],
-    "score": 4
+    "score": 5
   },
   {
     "username": "LawrenceChen-i2r",
