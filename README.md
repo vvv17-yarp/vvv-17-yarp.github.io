@@ -468,9 +468,10 @@
 | [tutorial_yarp-rpc-towardthesea](https://github.com/vvv17-yarp/tutorial_yarp-rpc-towardthesea) | :white_check_mark: | **1** |
 | [tutorial_RFModule-towardthesea](https://github.com/vvv17-yarp/tutorial_RFModule-towardthesea) | :white_check_mark: | **1** |
 | [tutorial_yarp-idl-towardthesea](https://github.com/vvv17-yarp/tutorial_yarp-idl-towardthesea) | :white_check_mark: | **1** |
+| [tutorial_yarp-multithreading-towardthesea](https://github.com/vvv17-yarp/tutorial_yarp-multithreading-towardthesea) | :white_check_mark: | **1** |
 | [assignment_producer-consumer-towardthesea](https://github.com/vvv17-yarp/assignment_producer-consumer-towardthesea) | :white_check_mark: | **5** |
 
-![total score](https://img.shields.io/badge/total_score-10-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-11-brightgreen.svg?style=flat-square)
 
 ---
 
