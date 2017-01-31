@@ -423,9 +423,10 @@
 | [tutorial_yarp-ports-svestark](https://github.com/vvv17-yarp/tutorial_yarp-ports-svestark) | :white_check_mark: | **1** |
 | [tutorial_yarp-rpc-svestark](https://github.com/vvv17-yarp/tutorial_yarp-rpc-svestark) | :white_check_mark: | **1** |
 | [tutorial_RFModule-svestark](https://github.com/vvv17-yarp/tutorial_RFModule-svestark) | :white_check_mark: | **1** |
+| [tutorial_yarp-idl-svestark](https://github.com/vvv17-yarp/tutorial_yarp-idl-svestark) | :white_check_mark: | **1** |
 | [assignment_producer-consumer-svestark](https://github.com/vvv17-yarp/assignment_producer-consumer-svestark) | :x: | **0** |
 
-![total score](https://img.shields.io/badge/total_score-4-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-5-brightgreen.svg?style=flat-square)
 
 ---
 
