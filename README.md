@@ -199,9 +199,10 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_yarpmanager-fabian-paus](https://github.com/vvv17-yarp/tutorial_yarpmanager-fabian-paus) | :white_check_mark: | **1** |
 | [tutorial_yarp-ports-fabian-paus](https://github.com/vvv17-yarp/tutorial_yarp-ports-fabian-paus) | :white_check_mark: | **1** |
+| [tutorial_yarp-rpc-fabian-paus](https://github.com/vvv17-yarp/tutorial_yarp-rpc-fabian-paus) | :white_check_mark: | **1** |
 | [assignment_producer-consumer-fabian-paus](https://github.com/vvv17-yarp/assignment_producer-consumer-fabian-paus) | :white_check_mark: | **5** |
 
-![total score](https://img.shields.io/badge/total_score-7-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-8-brightgreen.svg?style=flat-square)
 
 ---
 
