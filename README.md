@@ -400,9 +400,10 @@
 | [tutorial_yarp-rpc-nolbriker](https://github.com/vvv17-yarp/tutorial_yarp-rpc-nolbriker) | :white_check_mark: | **1** |
 | [tutorial_RFModule-nolbriker](https://github.com/vvv17-yarp/tutorial_RFModule-nolbriker) | :white_check_mark: | **1** |
 | [tutorial_yarp-idl-nolbriker](https://github.com/vvv17-yarp/tutorial_yarp-idl-nolbriker) | :white_check_mark: | **1** |
+| [tutorial_yarp-multithreading-nolbriker](https://github.com/vvv17-yarp/tutorial_yarp-multithreading-nolbriker) | :white_check_mark: | **1** |
 | [assignment_producer-consumer-nolbriker](https://github.com/vvv17-yarp/assignment_producer-consumer-nolbriker) | :x: | **0** |
 
-![total score](https://img.shields.io/badge/total_score-5-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-6-brightgreen.svg?style=flat-square)
 
 ---
 
