@@ -514,8 +514,9 @@
 | [tutorial_yarp-idl-vicentepedro](https://github.com/vvv17-yarp/tutorial_yarp-idl-vicentepedro) | :white_check_mark: | **1** |
 | [tutorial_yarp-multithreading-vicentepedro](https://github.com/vvv17-yarp/tutorial_yarp-multithreading-vicentepedro) | :white_check_mark: | **1** |
 | [assignment_producer-consumer-vicentepedro](https://github.com/vvv17-yarp/assignment_producer-consumer-vicentepedro) | :white_check_mark: | **5** |
+| [assignment_codec-vicentepedro](https://github.com/vvv17-yarp/assignment_codec-vicentepedro) | :white_check_mark: | **4** |
 
-![total score](https://img.shields.io/badge/total_score-11-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-15-brightgreen.svg?style=flat-square)
 
 ---
 
