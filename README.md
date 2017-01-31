@@ -478,6 +478,7 @@
 | [tutorial_yarp-idl-svestark](https://github.com/vvv17-yarp/tutorial_yarp-idl-svestark) | :white_check_mark: | **1** |
 | [tutorial_yarp-multithreading-svestark](https://github.com/vvv17-yarp/tutorial_yarp-multithreading-svestark) | :white_check_mark: | **1** |
 | [assignment_producer-consumer-svestark](https://github.com/vvv17-yarp/assignment_producer-consumer-svestark) | :white_check_mark: | **5** |
+| [assignment_codec-svestark](https://github.com/vvv17-yarp/assignment_codec-svestark) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-11-brightgreen.svg?style=flat-square)
 
