@@ -101,8 +101,15 @@
         "score": 1
       }
     ],
-    "assignments": [],
-    "score": 2
+    "assignments": [
+      {
+        "name": "assignment_producer-consumer-AlexisBillier",
+        "status": ":white_check_mark:",
+        "last_commit_date": "2017-01-30 18:41:58 UTC",
+        "score": 5
+      }
+    ],
+    "score": 7
   },
   {
     "username": "amalaise",
