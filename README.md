@@ -190,6 +190,7 @@
 | [tutorial_yarp-idl-Dabuss](https://github.com/vvv17-yarp/tutorial_yarp-idl-Dabuss) | :white_check_mark: | **1** |
 | [tutorial_yarp-multithreading-Dabuss](https://github.com/vvv17-yarp/tutorial_yarp-multithreading-Dabuss) | :white_check_mark: | **1** |
 | [assignment_producer-consumer-Dabuss](https://github.com/vvv17-yarp/assignment_producer-consumer-Dabuss) | :white_check_mark: | **5** |
+| [assignment_codec-Dabuss](https://github.com/vvv17-yarp/assignment_codec-Dabuss) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-11-brightgreen.svg?style=flat-square)
 
