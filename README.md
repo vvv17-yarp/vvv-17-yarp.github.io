@@ -359,9 +359,10 @@
 | [tutorial_yarp-ports-mazzamani](https://github.com/vvv17-yarp/tutorial_yarp-ports-mazzamani) | :white_check_mark: | **1** |
 | [tutorial_yarp-rpc-mazzamani](https://github.com/vvv17-yarp/tutorial_yarp-rpc-mazzamani) | :white_check_mark: | **1** |
 | [tutorial_RFModule-mazzamani](https://github.com/vvv17-yarp/tutorial_RFModule-mazzamani) | :white_check_mark: | **1** |
+| [tutorial_yarp-idl-mazzamani](https://github.com/vvv17-yarp/tutorial_yarp-idl-mazzamani) | :white_check_mark: | **1** |
 | [assignment_producer-consumer-mazzamani](https://github.com/vvv17-yarp/assignment_producer-consumer-mazzamani) | :x: | **0** |
 
-![total score](https://img.shields.io/badge/total_score-4-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-5-brightgreen.svg?style=flat-square)
 
 ---
 
