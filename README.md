@@ -406,6 +406,7 @@
 | [tutorial_yarp-idl-mazzamani](https://github.com/vvv17-yarp/tutorial_yarp-idl-mazzamani) | :white_check_mark: | **1** |
 | [tutorial_yarp-multithreading-mazzamani](https://github.com/vvv17-yarp/tutorial_yarp-multithreading-mazzamani) | :white_check_mark: | **1** |
 | [assignment_producer-consumer-mazzamani](https://github.com/vvv17-yarp/assignment_producer-consumer-mazzamani) | :white_check_mark: | **5** |
+| [assignment_codec-mazzamani](https://github.com/vvv17-yarp/assignment_codec-mazzamani) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-11-brightgreen.svg?style=flat-square)
 
