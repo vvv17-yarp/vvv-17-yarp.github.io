@@ -1113,8 +1113,15 @@
         "score": 1
       }
     ],
-    "assignments": [],
-    "score": 2
+    "assignments": [
+      {
+        "name": "assignment_producer-consumer-pi-q",
+        "status": ":white_check_mark:",
+        "last_commit_date": "2017-01-31 11:13:34 UTC",
+        "score": 5
+      }
+    ],
+    "score": 7
   },
   {
     "username": "svestark",
