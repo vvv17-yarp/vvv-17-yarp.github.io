@@ -143,6 +143,11 @@
         "name": "tutorial_yarp-ports-amalaise",
         "status": ":white_check_mark:",
         "score": 1
+      },
+      {
+        "name": "tutorial_yarp-rpc-amalaise",
+        "status": ":white_check_mark:",
+        "score": 1
       }
     ],
     "assignments": [
@@ -153,7 +158,7 @@
         "score": 5
       }
     ],
-    "score": 7
+    "score": 8
   },
   {
     "username": "anatanevska",
