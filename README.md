@@ -387,9 +387,9 @@
 | [tutorial_RFModule-LuSeKa](https://github.com/vvv17-yarp/tutorial_RFModule-LuSeKa) | :white_check_mark: | **1** |
 | [tutorial_yarp-idl-LuSeKa](https://github.com/vvv17-yarp/tutorial_yarp-idl-LuSeKa) | :white_check_mark: | **1** |
 | [tutorial_yarp-multithreading-LuSeKa](https://github.com/vvv17-yarp/tutorial_yarp-multithreading-LuSeKa) | :white_check_mark: | **1** |
-| [assignment_producer-consumer-LuSeKa](https://github.com/vvv17-yarp/assignment_producer-consumer-LuSeKa) | :x: | **0** |
+| [assignment_producer-consumer-LuSeKa](https://github.com/vvv17-yarp/assignment_producer-consumer-LuSeKa) | :white_check_mark: | **5** |
 
-![total score](https://img.shields.io/badge/total_score-6-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-11-brightgreen.svg?style=flat-square)
 
 ---
 
