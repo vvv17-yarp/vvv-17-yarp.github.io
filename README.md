@@ -119,9 +119,10 @@
 | [tutorial_yarp-ports-bmagyar](https://github.com/vvv17-yarp/tutorial_yarp-ports-bmagyar) | :white_check_mark: | **1** |
 | [tutorial_yarp-rpc-bmagyar](https://github.com/vvv17-yarp/tutorial_yarp-rpc-bmagyar) | :white_check_mark: | **1** |
 | [tutorial_RFModule-bmagyar](https://github.com/vvv17-yarp/tutorial_RFModule-bmagyar) | :white_check_mark: | **1** |
+| [tutorial_yarp-idl-bmagyar](https://github.com/vvv17-yarp/tutorial_yarp-idl-bmagyar) | :white_check_mark: | **1** |
 | [assignment_producer-consumer-bmagyar](https://github.com/vvv17-yarp/assignment_producer-consumer-bmagyar) | :x: | **0** |
 
-![total score](https://img.shields.io/badge/total_score-4-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-5-brightgreen.svg?style=flat-square)
 
 ---
 
