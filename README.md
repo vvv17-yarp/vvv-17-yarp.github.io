@@ -434,9 +434,10 @@
 | [tutorial_yarp-rpc-pi-q](https://github.com/vvv17-yarp/tutorial_yarp-rpc-pi-q) | :white_check_mark: | **1** |
 | [tutorial_RFModule-pi-q](https://github.com/vvv17-yarp/tutorial_RFModule-pi-q) | :white_check_mark: | **1** |
 | [tutorial_yarp-idl-pi-q](https://github.com/vvv17-yarp/tutorial_yarp-idl-pi-q) | :white_check_mark: | **1** |
+| [tutorial_yarp-multithreading-pi-q](https://github.com/vvv17-yarp/tutorial_yarp-multithreading-pi-q) | :white_check_mark: | **1** |
 | [assignment_producer-consumer-pi-q](https://github.com/vvv17-yarp/assignment_producer-consumer-pi-q) | :white_check_mark: | **5** |
 
-![total score](https://img.shields.io/badge/total_score-10-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-11-brightgreen.svg?style=flat-square)
 
 ---
 
