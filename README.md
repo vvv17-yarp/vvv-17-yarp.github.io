@@ -29,9 +29,9 @@
 | [tutorial_yarp-multithreading-alexarossi](https://github.com/vvv17-yarp/tutorial_yarp-multithreading-alexarossi) | :white_check_mark: | **1** |
 | [tutorial_yarp-rpc-alexarossi](https://github.com/vvv17-yarp/tutorial_yarp-rpc-alexarossi) | :white_check_mark: | **1** |
 | [assignment_producer-consumer-alexarossi](https://github.com/vvv17-yarp/assignment_producer-consumer-alexarossi) | :white_check_mark: | **5** |
-| [assignment_codec-alexarossi](https://github.com/vvv17-yarp/assignment_codec-alexarossi) | :x: | **0** |
+| [assignment_codec-alexarossi](https://github.com/vvv17-yarp/assignment_codec-alexarossi) | :white_check_mark: | **4** |
 
-![total score](https://img.shields.io/badge/total_score-11-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-15-brightgreen.svg?style=flat-square)
 
 ---
 
