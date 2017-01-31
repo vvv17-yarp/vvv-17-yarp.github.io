@@ -209,6 +209,11 @@
         "name": "tutorial_yarp-ports-bmagyar",
         "status": ":white_check_mark:",
         "score": 1
+      },
+      {
+        "name": "tutorial_yarp-rpc-bmagyar",
+        "status": ":white_check_mark:",
+        "score": 1
       }
     ],
     "assignments": [
@@ -219,7 +224,7 @@
         "score": 5
       }
     ],
-    "score": 2
+    "score": 3
   },
   {
     "username": "BrutusTT",
