@@ -83,6 +83,7 @@
 | [tutorial_yarp-idl-anatanevska](https://github.com/vvv17-yarp/tutorial_yarp-idl-anatanevska) | :white_check_mark: | **1** |
 | [tutorial_yarp-multithreading-anatanevska](https://github.com/vvv17-yarp/tutorial_yarp-multithreading-anatanevska) | :white_check_mark: | **1** |
 | [assignment_producer-consumer-anatanevska](https://github.com/vvv17-yarp/assignment_producer-consumer-anatanevska) | :white_check_mark: | **5** |
+| [assignment_codec-anatanevska](https://github.com/vvv17-yarp/assignment_codec-anatanevska) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-11-brightgreen.svg?style=flat-square)
 
