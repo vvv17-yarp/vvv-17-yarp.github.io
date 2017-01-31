@@ -236,6 +236,11 @@
         "name": "tutorial_yarp-rpc-Arya07",
         "status": ":white_check_mark:",
         "score": 1
+      },
+      {
+        "name": "tutorial_RFModule-Arya07",
+        "status": ":white_check_mark:",
+        "score": 1
       }
     ],
     "assignments": [
@@ -246,7 +251,7 @@
         "score": 5
       }
     ],
-    "score": 8
+    "score": 9
   },
   {
     "username": "BarisSerhan",
