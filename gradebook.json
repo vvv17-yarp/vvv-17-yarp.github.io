@@ -666,10 +666,15 @@
         "name": "tutorial_yarpmanager-Iaxama",
         "status": ":white_check_mark:",
         "score": 1
+      },
+      {
+        "name": "tutorial_yarp-ports-Iaxama",
+        "status": ":white_check_mark:",
+        "score": 1
       }
     ],
     "assignments": [],
-    "score": 1
+    "score": 2
   },
   {
     "username": "ipa-bfb",
