@@ -333,9 +333,9 @@
 | [tutorial_RFModule-kompky](https://github.com/vvv17-yarp/tutorial_RFModule-kompky) | :white_check_mark: | **1** |
 | [tutorial_yarp-idl-kompky](https://github.com/vvv17-yarp/tutorial_yarp-idl-kompky) | :white_check_mark: | **1** |
 | [tutorial_yarp-multithreading-kompky](https://github.com/vvv17-yarp/tutorial_yarp-multithreading-kompky) | :white_check_mark: | **1** |
-| [assignment_producer-consumer-kompky](https://github.com/vvv17-yarp/assignment_producer-consumer-kompky) | :x: | **0** |
+| [assignment_producer-consumer-kompky](https://github.com/vvv17-yarp/assignment_producer-consumer-kompky) | :white_check_mark: | **5** |
 
-![total score](https://img.shields.io/badge/total_score-6-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-11-brightgreen.svg?style=flat-square)
 
 ---
 

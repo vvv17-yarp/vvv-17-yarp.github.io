@@ -872,12 +872,12 @@
     "assignments": [
       {
         "name": "assignment_producer-consumer-kompky",
-        "status": ":x:",
-        "last_commit_date": "2017-01-16 10:00:49 UTC",
+        "status": ":white_check_mark:",
+        "last_commit_date": "2017-01-31 11:27:18 UTC",
         "score": 5
       }
     ],
-    "score": 6
+    "score": 11
   },
   {
     "username": "LawrenceChen-i2r",
