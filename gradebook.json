@@ -715,6 +715,11 @@
         "name": "tutorial_yarp-rpc-LuSeKa",
         "status": ":white_check_mark:",
         "score": 1
+      },
+      {
+        "name": "tutorial_RFModule-LuSeKa",
+        "status": ":white_check_mark:",
+        "score": 1
       }
     ],
     "assignments": [
@@ -725,7 +730,7 @@
         "score": 5
       }
     ],
-    "score": 3
+    "score": 4
   },
   {
     "username": "mazzamani",
