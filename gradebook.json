@@ -1283,9 +1283,15 @@
         "status": ":white_check_mark:",
         "last_commit_date": "2017-01-31 11:13:34 UTC",
         "score": 5
+      },
+      {
+        "name": "assignment_codec-pi-q",
+        "status": ":white_check_mark:",
+        "last_commit_date": "2017-01-31 11:55:39 UTC",
+        "score": 4
       }
     ],
-    "score": 11
+    "score": 15
   },
   {
     "username": "svestark",
