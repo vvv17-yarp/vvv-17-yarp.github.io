@@ -397,6 +397,7 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_yarpmanager-nolbriker](https://github.com/vvv17-yarp/tutorial_yarpmanager-nolbriker) | :white_check_mark: | **1** |
 | [tutorial_yarp-ports-nolbriker](https://github.com/vvv17-yarp/tutorial_yarp-ports-nolbriker) | :white_check_mark: | **1** |
+| [assignment_producer-consumer-nolbriker](https://github.com/vvv17-yarp/assignment_producer-consumer-nolbriker) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
 
