@@ -184,9 +184,10 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_yarpmanager-EgorLakomkin](https://github.com/vvv17-yarp/tutorial_yarpmanager-EgorLakomkin) | :white_check_mark: | **1** |
 | [tutorial_yarp-ports-EgorLakomkin](https://github.com/vvv17-yarp/tutorial_yarp-ports-EgorLakomkin) | :white_check_mark: | **1** |
+| [tutorial_yarp-rpc-EgorLakomkin](https://github.com/vvv17-yarp/tutorial_yarp-rpc-EgorLakomkin) | :white_check_mark: | **1** |
 | [assignment_producer-consumer-EgorLakomkin](https://github.com/vvv17-yarp/assignment_producer-consumer-EgorLakomkin) | :white_check_mark: | **5** |
 
-![total score](https://img.shields.io/badge/total_score-7-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-8-brightgreen.svg?style=flat-square)
 
 ---
 
