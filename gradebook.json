@@ -118,12 +118,12 @@
     "assignments": [
       {
         "name": "assignment_producer-consumer-amalaise",
-        "status": ":x:",
+        "status": ":white_check_mark:",
         "last_commit_date": "",
         "score": 5
       }
     ],
-    "score": 4
+    "score": 9
   },
   {
     "username": "anatanevska",
