@@ -315,9 +315,9 @@
 | [tutorial_RFModule-jibweb](https://github.com/vvv17-yarp/tutorial_RFModule-jibweb) | :white_check_mark: | **1** |
 | [tutorial_yarp-idl-jibweb](https://github.com/vvv17-yarp/tutorial_yarp-idl-jibweb) | :white_check_mark: | **1** |
 | [tutorial_yarp-multithreading-jibweb](https://github.com/vvv17-yarp/tutorial_yarp-multithreading-jibweb) | :white_check_mark: | **1** |
-| [assignment_producer-consumer-jibweb](https://github.com/vvv17-yarp/assignment_producer-consumer-jibweb) | :x: | **0** |
+| [assignment_producer-consumer-jibweb](https://github.com/vvv17-yarp/assignment_producer-consumer-jibweb) | :white_check_mark: | **5** |
 
-![total score](https://img.shields.io/badge/total_score-6-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-11-brightgreen.svg?style=flat-square)
 
 ---
 
