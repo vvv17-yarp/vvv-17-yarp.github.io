@@ -270,10 +270,15 @@
         "name": "tutorial_yarpmanager-BarisSerhan",
         "status": ":white_check_mark:",
         "score": 1
+      },
+      {
+        "name": "tutorial_yarp-ports-BarisSerhan",
+        "status": ":white_check_mark:",
+        "score": 1
       }
     ],
     "assignments": [],
-    "score": 1
+    "score": 2
   },
   {
     "username": "bmagyar",
