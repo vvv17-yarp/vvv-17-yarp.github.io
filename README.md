@@ -155,6 +155,7 @@
 | [tutorial_yarp-idl-BrutusTT](https://github.com/vvv17-yarp/tutorial_yarp-idl-BrutusTT) | :white_check_mark: | **1** |
 | [tutorial_yarp-multithreading-BrutusTT](https://github.com/vvv17-yarp/tutorial_yarp-multithreading-BrutusTT) | :white_check_mark: | **1** |
 | [assignment_producer-consumer-BrutusTT](https://github.com/vvv17-yarp/assignment_producer-consumer-BrutusTT) | :white_check_mark: | **5** |
+| [assignment_codec-BrutusTT](https://github.com/vvv17-yarp/assignment_codec-BrutusTT) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-11-brightgreen.svg?style=flat-square)
 
