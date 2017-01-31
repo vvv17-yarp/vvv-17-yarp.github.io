@@ -442,8 +442,9 @@
 | [tutorial_yarp-idl-NunoDuarte](https://github.com/vvv17-yarp/tutorial_yarp-idl-NunoDuarte) | :white_check_mark: | **1** |
 | [tutorial_yarp-multithreading-NunoDuarte](https://github.com/vvv17-yarp/tutorial_yarp-multithreading-NunoDuarte) | :white_check_mark: | **1** |
 | [assignment_producer-consumer-NunoDuarte](https://github.com/vvv17-yarp/assignment_producer-consumer-NunoDuarte) | :white_check_mark: | **5** |
+| [assignment_codec-NunoDuarte](https://github.com/vvv17-yarp/assignment_codec-NunoDuarte) | :white_check_mark: | **4** |
 
-![total score](https://img.shields.io/badge/total_score-11-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-15-brightgreen.svg?style=flat-square)
 
 ---
 
