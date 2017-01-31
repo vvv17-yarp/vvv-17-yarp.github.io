@@ -16,6 +16,11 @@
         "name": "tutorial_yarp-rpc-AlexAntn",
         "status": ":white_check_mark:",
         "score": 1
+      },
+      {
+        "name": "tutorial_RFModule-AlexAntn",
+        "status": ":white_check_mark:",
+        "score": 1
       }
     ],
     "assignments": [
@@ -26,7 +31,7 @@
         "score": 5
       }
     ],
-    "score": 8
+    "score": 9
   },
   {
     "username": "alexarossi",
