@@ -1069,6 +1069,11 @@
         "name": "tutorial_RFModule-towardthesea",
         "status": ":white_check_mark:",
         "score": 1
+      },
+      {
+        "name": "tutorial_yarp-idl-towardthesea",
+        "status": ":white_check_mark:",
+        "score": 1
       }
     ],
     "assignments": [
@@ -1079,7 +1084,7 @@
         "score": 5
       }
     ],
-    "score": 9
+    "score": 10
   },
   {
     "username": "vicentepedro",
