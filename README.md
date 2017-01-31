@@ -56,8 +56,9 @@
 | assignment | status | score |
 |    :--:    |  :--:  | :--:  |
 | [tutorial_yarpmanager-amalaise](https://github.com/vvv17-yarp/tutorial_yarpmanager-amalaise) | :white_check_mark: | **1** |
+| [tutorial_yarp-ports-amalaise](https://github.com/vvv17-yarp/tutorial_yarp-ports-amalaise) | :white_check_mark: | **1** |
 
-![total score](https://img.shields.io/badge/total_score-1-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
 
 ---
 
