@@ -77,9 +77,10 @@
 | [tutorial_yarp-rpc-anatanevska](https://github.com/vvv17-yarp/tutorial_yarp-rpc-anatanevska) | :white_check_mark: | **1** |
 | [tutorial_RFModule-anatanevska](https://github.com/vvv17-yarp/tutorial_RFModule-anatanevska) | :white_check_mark: | **1** |
 | [tutorial_yarp-idl-anatanevska](https://github.com/vvv17-yarp/tutorial_yarp-idl-anatanevska) | :white_check_mark: | **1** |
+| [tutorial_yarp-multithreading-anatanevska](https://github.com/vvv17-yarp/tutorial_yarp-multithreading-anatanevska) | :white_check_mark: | **1** |
 | [assignment_producer-consumer-anatanevska](https://github.com/vvv17-yarp/assignment_producer-consumer-anatanevska) | :x: | **0** |
 
-![total score](https://img.shields.io/badge/total_score-5-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-6-brightgreen.svg?style=flat-square)
 
 ---
 
