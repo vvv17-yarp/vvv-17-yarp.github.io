@@ -1201,8 +1201,15 @@
         "score": 1
       }
     ],
-    "assignments": [],
-    "score": 2
+    "assignments": [
+      {
+        "name": "assignment_producer-consumer-towardthesea",
+        "status": ":white_check_mark:",
+        "last_commit_date": "2017-01-31 09:16:39 UTC",
+        "score": 5
+      }
+    ],
+    "score": 7
   },
   {
     "username": "vicentepedro",
