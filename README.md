@@ -263,9 +263,10 @@
 | [tutorial_yarp-ports-Iaxama](https://github.com/vvv17-yarp/tutorial_yarp-ports-Iaxama) | :white_check_mark: | **1** |
 | [tutorial_RFModule-Iaxama](https://github.com/vvv17-yarp/tutorial_RFModule-Iaxama) | :white_check_mark: | **1** |
 | [tutorial_yarp-rpc-Iaxama](https://github.com/vvv17-yarp/tutorial_yarp-rpc-Iaxama) | :white_check_mark: | **1** |
+| [tutorial_yarp-idl-Iaxama](https://github.com/vvv17-yarp/tutorial_yarp-idl-Iaxama) | :white_check_mark: | **1** |
 | [assignment_producer-consumer-Iaxama](https://github.com/vvv17-yarp/assignment_producer-consumer-Iaxama) | :white_check_mark: | **5** |
 
-![total score](https://img.shields.io/badge/total_score-9-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-10-brightgreen.svg?style=flat-square)
 
 ---
 
