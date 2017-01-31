@@ -11,6 +11,11 @@
         "name": "tutorial_yarp-ports-AlexAntn",
         "status": ":white_check_mark:",
         "score": 1
+      },
+      {
+        "name": "tutorial_yarp-rpc-AlexAntn",
+        "status": ":white_check_mark:",
+        "score": 1
       }
     ],
     "assignments": [
@@ -21,7 +26,7 @@
         "score": 5
       }
     ],
-    "score": 7
+    "score": 8
   },
   {
     "username": "alexarossi",
