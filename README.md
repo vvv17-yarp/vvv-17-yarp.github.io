@@ -364,9 +364,10 @@
 | [tutorial_yarpmanager-NunoDuarte](https://github.com/vvv17-yarp/tutorial_yarpmanager-NunoDuarte) | :white_check_mark: | **1** |
 | [tutorial_yarp-ports-NunoDuarte](https://github.com/vvv17-yarp/tutorial_yarp-ports-NunoDuarte) | :white_check_mark: | **1** |
 | [tutorial_yarp-rpc-NunoDuarte](https://github.com/vvv17-yarp/tutorial_yarp-rpc-NunoDuarte) | :white_check_mark: | **1** |
+| [tutorial_RFModule-NunoDuarte](https://github.com/vvv17-yarp/tutorial_RFModule-NunoDuarte) | :white_check_mark: | **1** |
 | [assignment_producer-consumer-NunoDuarte](https://github.com/vvv17-yarp/assignment_producer-consumer-NunoDuarte) | :white_check_mark: | **5** |
 
-![total score](https://img.shields.io/badge/total_score-8-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-9-brightgreen.svg?style=flat-square)
 
 ---
 
