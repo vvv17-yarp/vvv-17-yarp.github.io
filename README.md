@@ -125,9 +125,10 @@
 | [tutorial_yarpmanager-BrutusTT](https://github.com/vvv17-yarp/tutorial_yarpmanager-BrutusTT) | :white_check_mark: | **1** |
 | [tutorial_yarp-ports-BrutusTT](https://github.com/vvv17-yarp/tutorial_yarp-ports-BrutusTT) | :white_check_mark: | **1** |
 | [tutorial_yarp-rpc-BrutusTT](https://github.com/vvv17-yarp/tutorial_yarp-rpc-BrutusTT) | :white_check_mark: | **1** |
+| [tutorial_RFModule-BrutusTT](https://github.com/vvv17-yarp/tutorial_RFModule-BrutusTT) | :white_check_mark: | **1** |
 | [assignment_producer-consumer-BrutusTT](https://github.com/vvv17-yarp/assignment_producer-consumer-BrutusTT) | :x: | **0** |
 
-![total score](https://img.shields.io/badge/total_score-3-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-4-brightgreen.svg?style=flat-square)
 
 ---
 
