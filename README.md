@@ -8,9 +8,10 @@
 | [tutorial_yarp-ports-AlexAntn](https://github.com/vvv17-yarp/tutorial_yarp-ports-AlexAntn) | :white_check_mark: | **1** |
 | [tutorial_yarp-rpc-AlexAntn](https://github.com/vvv17-yarp/tutorial_yarp-rpc-AlexAntn) | :white_check_mark: | **1** |
 | [tutorial_RFModule-AlexAntn](https://github.com/vvv17-yarp/tutorial_RFModule-AlexAntn) | :white_check_mark: | **1** |
+| [tutorial_yarp-idl-AlexAntn](https://github.com/vvv17-yarp/tutorial_yarp-idl-AlexAntn) | :white_check_mark: | **1** |
 | [assignment_producer-consumer-AlexAntn](https://github.com/vvv17-yarp/assignment_producer-consumer-AlexAntn) | :white_check_mark: | **5** |
 
-![total score](https://img.shields.io/badge/total_score-9-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-10-brightgreen.svg?style=flat-square)
 
 ---
 
