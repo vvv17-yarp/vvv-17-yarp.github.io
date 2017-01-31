@@ -137,8 +137,9 @@
 | [tutorial_yarp-idl-bmagyar](https://github.com/vvv17-yarp/tutorial_yarp-idl-bmagyar) | :white_check_mark: | **1** |
 | [tutorial_yarp-multithreading-bmagyar](https://github.com/vvv17-yarp/tutorial_yarp-multithreading-bmagyar) | :white_check_mark: | **1** |
 | [assignment_producer-consumer-bmagyar](https://github.com/vvv17-yarp/assignment_producer-consumer-bmagyar) | :x: | **0** |
+| [assignment_codec-bmagyar](https://github.com/vvv17-yarp/assignment_codec-bmagyar) | :white_check_mark: | **4** |
 
-![total score](https://img.shields.io/badge/total_score-6-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-10-brightgreen.svg?style=flat-square)
 
 ---
 
