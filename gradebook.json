@@ -981,7 +981,14 @@
         "score": 1
       }
     ],
-    "assignments": [],
+    "assignments": [
+      {
+        "name": "assignment_producer-consumer-mazzamani",
+        "status": ":x:",
+        "last_commit_date": "2017-01-16 10:00:49 UTC",
+        "score": 5
+      }
+    ],
     "score": 2
   },
   {
