@@ -280,8 +280,9 @@
 | [tutorial_yarp-idl-Iaxama](https://github.com/vvv17-yarp/tutorial_yarp-idl-Iaxama) | :white_check_mark: | **1** |
 | [tutorial_yarp-multithreading-Iaxama](https://github.com/vvv17-yarp/tutorial_yarp-multithreading-Iaxama) | :white_check_mark: | **1** |
 | [assignment_producer-consumer-Iaxama](https://github.com/vvv17-yarp/assignment_producer-consumer-Iaxama) | :white_check_mark: | **5** |
+| [assignment_codec-Iaxama](https://github.com/vvv17-yarp/assignment_codec-Iaxama) | :white_check_mark: | **4** |
 
-![total score](https://img.shields.io/badge/total_score-11-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-15-brightgreen.svg?style=flat-square)
 
 ---
 
