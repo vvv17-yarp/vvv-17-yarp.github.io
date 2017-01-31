@@ -42,9 +42,10 @@
 | [tutorial_yarp-ports-AlexisBillier](https://github.com/vvv17-yarp/tutorial_yarp-ports-AlexisBillier) | :white_check_mark: | **1** |
 | [tutorial_yarp-rpc-AlexisBillier](https://github.com/vvv17-yarp/tutorial_yarp-rpc-AlexisBillier) | :white_check_mark: | **1** |
 | [tutorial_RFModule-AlexisBillier](https://github.com/vvv17-yarp/tutorial_RFModule-AlexisBillier) | :white_check_mark: | **1** |
+| [tutorial_yarp-idl-AlexisBillier](https://github.com/vvv17-yarp/tutorial_yarp-idl-AlexisBillier) | :white_check_mark: | **1** |
 | [assignment_producer-consumer-AlexisBillier](https://github.com/vvv17-yarp/assignment_producer-consumer-AlexisBillier) | :white_check_mark: | **5** |
 
-![total score](https://img.shields.io/badge/total_score-9-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-10-brightgreen.svg?style=flat-square)
 
 ---
 
