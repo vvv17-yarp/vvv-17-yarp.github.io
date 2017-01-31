@@ -80,9 +80,10 @@
 | [tutorial_yarpmanager-Arya07](https://github.com/vvv17-yarp/tutorial_yarpmanager-Arya07) | :white_check_mark: | **1** |
 | [tutorial_yarp-ports-Arya07](https://github.com/vvv17-yarp/tutorial_yarp-ports-Arya07) | :white_check_mark: | **1** |
 | [tutorial_yarp-rpc-Arya07](https://github.com/vvv17-yarp/tutorial_yarp-rpc-Arya07) | :white_check_mark: | **1** |
+| [tutorial_RFModule-Arya07](https://github.com/vvv17-yarp/tutorial_RFModule-Arya07) | :white_check_mark: | **1** |
 | [assignment_producer-consumer-Arya07](https://github.com/vvv17-yarp/assignment_producer-consumer-Arya07) | :x: | **0** |
 
-![total score](https://img.shields.io/badge/total_score-3-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-4-brightgreen.svg?style=flat-square)
 
 ---
 
