@@ -119,9 +119,9 @@
 | [tutorial_yarp-idl-BarisSerhan](https://github.com/vvv17-yarp/tutorial_yarp-idl-BarisSerhan) | :white_check_mark: | **1** |
 | [tutorial_yarp-multithreading-BarisSerhan](https://github.com/vvv17-yarp/tutorial_yarp-multithreading-BarisSerhan) | :white_check_mark: | **1** |
 | [assignment_producer-consumer-BarisSerhan](https://github.com/vvv17-yarp/assignment_producer-consumer-BarisSerhan) | :white_check_mark: | **5** |
-| [assignment_codec-BarisSerhan](https://github.com/vvv17-yarp/assignment_codec-BarisSerhan) | :x: | **0** |
+| [assignment_codec-BarisSerhan](https://github.com/vvv17-yarp/assignment_codec-BarisSerhan) | :white_check_mark: | **4** |
 
-![total score](https://img.shields.io/badge/total_score-11-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-15-brightgreen.svg?style=flat-square)
 
 ---
 
