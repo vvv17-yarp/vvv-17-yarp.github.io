@@ -1,5 +1,7 @@
 ## Gradebook of VVV17 YARP course
 
+As VVV17 is now over, students repositories have been [archived](https://github.com/vvv17-yarp/vvv17-yarp.github.io/tree/master/archives).
+
 ### [**AlexAntn**](https://github.com/AlexAntn) grade
 
 | assignment | status | score |
